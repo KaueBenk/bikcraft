@@ -1,1 +1,4 @@
 bikcraft.code-workspace
+.vscode/
+.env
+.vscode/settings.json
